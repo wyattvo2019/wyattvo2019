@@ -42,6 +42,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
 
 </p>
 
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 <!--     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white"></a> -->
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?logo=vue&logoColor=white"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
 <!--     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a> -->
