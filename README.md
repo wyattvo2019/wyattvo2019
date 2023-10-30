@@ -40,6 +40,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <!--     <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Awyattvo2019+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white"></a>
 
 </p>
 
@@ -55,6 +57,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
 <!--     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a> -->
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
